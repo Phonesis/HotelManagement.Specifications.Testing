@@ -1,1 +1,1 @@
-A proof of concept framework using Java, Cucumber, Maven, JUnit. and WebDriver
+A proof of concept framework using Java, Cucumber, Maven, JUnit, and WebDriver
